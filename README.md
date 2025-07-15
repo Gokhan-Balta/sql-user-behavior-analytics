@@ -17,6 +17,8 @@ It focuses on **EDA**, **conversion funnels** and **segmentation**.
 
 Relational schema used in the project:
 
+<img width="1536" height="1024" alt="data_schema" src="https://github.com/user-attachments/assets/90acd19b-5ae9-4cae-9adb-d177359e223c" />
+
 | Table Name    | Description                      | Primary Key              | Foreign Keys                                                                |
 |---------------|----------------------------------|--------------------------|-----------------------------------------------------------------------------|
 | `users`       | User demographic info            | `user_id`                | –                                                                           |
