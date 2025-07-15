@@ -1,0 +1,101 @@
+product_id;name;category;price
+1;Apple iPad Air;Electronics;599.0
+2;MacBook Air M2;Electronics;1399.0
+3;Sony WH-1000XM5 Headphones;Electronics;399.99
+4;Apple Watch Series 9;Electronics;499.0
+5;Apple iPhone 14 Pro;Electronics;1299.0
+6;Steam Deck;Gaming;399.0
+7;HP Spectre x360;Electronics;1249.0
+8;DJI Mini 4 Pro Drone;Electronics;799.0
+9;LG OLED55 TV;Electronics;1299.0
+10;LG OLED55 TV;Electronics;1299.0
+11;Apple Watch Series 9;Electronics;499.0
+12;Razer DeathAdder V2;Gaming;59.99
+13;Apple iPhone 14 Pro;Electronics;1299.0
+14;MacBook Air M2;Electronics;1399.0
+15;Sony WH-1000XM5 Headphones;Electronics;399.99
+16;MSI Gaming Laptop;Gaming;1599.0
+17;Dell XPS 13;Electronics;1099.0
+18;Nintendo Switch OLED;Gaming;349.99
+19;Sony WH-1000XM5 Headphones;Electronics;399.99
+20;Dell XPS 13;Electronics;1099.0
+21;Apple iPad Air;Electronics;599.0
+22;Canon EOS R8 Camera;Photography;1499.0
+23;Logitech G Pro X Keyboard;Gaming;149.99
+24;Razer DeathAdder V2;Gaming;59.99
+25;Dell XPS 13;Electronics;1099.0
+26;Steam Deck;Gaming;399.0
+27;Kindle Paperwhite;Electronics;149.99
+28;Canon EOS R8 Camera;Photography;1499.0
+29;Nintendo Switch OLED;Gaming;349.99
+30;Apple iPad Air;Electronics;599.0
+31;Apple Watch Series 9;Electronics;499.0
+32;Fitbit Charge 6;Wearables;159.99
+33;Nintendo Switch OLED;Gaming;349.99
+34;LG OLED55 TV;Electronics;1299.0
+35;Apple iPhone 14 Pro;Electronics;1299.0
+36;Logitech MX Master 3S Mouse;Electronics;99.99
+37;HP Spectre x360;Electronics;1249.0
+38;Dell XPS 13;Electronics;1099.0
+39;GoPro HERO11;Electronics;449.99
+40;MSI Gaming Laptop;Gaming;1599.0
+41;Sony WH-1000XM5 Headphones;Electronics;399.99
+42;Dell XPS 13;Electronics;1099.0
+43;Anker Soundcore Liberty 4;Electronics;129.99
+44;Oura Ring Gen3;Wearables;299.0
+45;Anker Soundcore Liberty 4;Electronics;129.99
+46;HP Spectre x360;Electronics;1249.0
+47;Anker Soundcore Liberty 4;Electronics;129.99
+48;HP Spectre x360;Electronics;1249.0
+49;Nikon Z5 Camera;Photography;1399.0
+50;Fitbit Charge 6;Wearables;159.99
+51;Steam Deck;Gaming;399.0
+52;Apple Watch Series 9;Electronics;499.0
+53;GoPro HERO11;Electronics;449.99
+54;Canon EOS R8 Camera;Photography;1499.0
+55;Nintendo Switch OLED;Gaming;349.99
+56;Dell XPS 13;Electronics;1099.0
+57;Logitech MX Master 3S Mouse;Electronics;99.99
+58;Canon EOS R8 Camera;Photography;1499.0
+59;Anker Soundcore Liberty 4;Electronics;129.99
+60;DJI Mini 4 Pro Drone;Electronics;799.0
+61;Oura Ring Gen3;Wearables;299.0
+62;PlayStation 5;Gaming;499.99
+63;Samsung Galaxy S24;Electronics;1199.0
+64;Steam Deck;Gaming;399.0
+65;Anker Soundcore Liberty 4;Electronics;129.99
+66;Anker Soundcore Liberty 4;Electronics;129.99
+67;DJI Mini 4 Pro Drone;Electronics;799.0
+68;Nintendo Switch OLED;Gaming;349.99
+69;Nintendo Switch OLED;Gaming;349.99
+70;Samsung Galaxy S24;Electronics;1199.0
+71;LG OLED55 TV;Electronics;1299.0
+72;LG OLED55 TV;Electronics;1299.0
+73;Apple iPhone 14 Pro;Electronics;1299.0
+74;MSI Gaming Laptop;Gaming;1599.0
+75;LG OLED55 TV;Electronics;1299.0
+76;Xbox Series X;Gaming;499.99
+77;Nikon Z5 Camera;Photography;1399.0
+78;MacBook Air M2;Electronics;1399.0
+79;Canon EOS R8 Camera;Photography;1499.0
+80;MacBook Air M2;Electronics;1399.0
+81;Samsung Galaxy S24;Electronics;1199.0
+82;HP Spectre x360;Electronics;1249.0
+83;Asus ROG Zephyrus;Electronics;1799.0
+84;Logitech MX Master 3S Mouse;Electronics;99.99
+85;Apple Watch Series 9;Electronics;499.0
+86;Nikon Z5 Camera;Photography;1399.0
+87;Garmin Fenix 7;Wearables;699.0
+88;Garmin Fenix 7;Wearables;699.0
+89;Dell XPS 13;Electronics;1099.0
+90;DJI Mini 4 Pro Drone;Electronics;799.0
+91;PlayStation 5;Gaming;499.99
+92;Oura Ring Gen3;Wearables;299.0
+93;Apple Watch Series 9;Electronics;499.0
+94;MSI Gaming Laptop;Gaming;1599.0
+95;Asus ROG Zephyrus;Electronics;1799.0
+96;Canon EOS R8 Camera;Photography;1499.0
+97;MacBook Air M2;Electronics;1399.0
+98;GoPro HERO11;Electronics;449.99
+99;HP Spectre x360;Electronics;1249.0
+100;Apple iPhone 14 Pro;Electronics;1299.0
